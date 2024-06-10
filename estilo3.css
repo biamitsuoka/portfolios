@@ -1,0 +1,24 @@
+#menu {
+    height: 8vh;
+    width: 100%; 
+    margin: 0 auto; 
+    text-align: center; 
+    background-color:  rgb(23, 47, 79);
+}
+#menu ul {
+    list-style-type: none;
+}
+#menu ul li {
+    display: inline-block;
+    min-width: 150px;
+    padding: 20px 
+}
+.nav a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-family: Helvetica; 
+}
+#fotos {
+    margin-top: 25px;
+    margin-left: 20px;
+}
